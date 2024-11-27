@@ -9,7 +9,7 @@
 
 ## Data source
 
-- [Kaggle Cyber Security Attacks]([https://www.kaggle.com/rikdifos/credit-card-approval-prediction](https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data](url))
+- [Kaggle Cyber Security Attacks](https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data)
 
 ## Overview
 
