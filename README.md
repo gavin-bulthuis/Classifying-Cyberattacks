@@ -3,7 +3,7 @@
 ## Authors
 
 - [@kevint4890](https://www.github.com/kevint4890)
-- []
+- [@gavin-bulthuis](https://www.github.com/gavin-bulthuis)
 - []
 - []
 
